@@ -1,0 +1,88 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(bg3.jpg) ;
+	background-size: cover;
+}
+h2{
+	text-align: center;
+	color: white;
+	background:rgba(0,0,0,0.5);
+	padding: 20px;
+border:2px solid white;
+}
+.Registration{
+	margin:5px;
+}
+#registration{
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	color: white;
+	background:rgba(0,0,0,0.5);
+	border:2px solid white;
+	padding: 15px;
+}
+.name{
+	width:40%;
+	padding: 5px;
+	border-radius: 5px;
+	border:none;
+	border:1px solid white;
+	outline: 0;
+	font-family: serif;
+	font-size: 20px;
+	background:none;
+	color: white;
+}
+.number{
+
+	width: 30%;
+	padding: 5px;
+	border-radius: 5px;
+	border:none;
+	border:1px solid white;
+	outline: 0;
+	font-family: serif;
+	font-size: 20px;
+	background:none;
+	color: white;
+}
+.num{
+		width: 10%;
+	
+	padding-top: 9px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+	background: none;
+	color: white;
+}
+.check{
+	font-family: serif;
+	font-size: 20px;
+}
+
+.rad{
+	font-family: serif;
+	font-size: 20px;
+}
+.sub{
+	width: 150px;
+	padding:5px;
+	border:1px solid white;
+	border-radius: 5px;
+	font-family: serif;
+	font-size: 20px;
+	background:none;
+	color: white;
+	outline: 0;
+}
+.sub:hover{
+	background:black;
+}
+
+::placeholder{
+	color: white;
+}
